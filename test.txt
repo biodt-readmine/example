@@ -1,1 +1,18 @@
 hello world. second third. forth.
+
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() in: hMsi=378, sProcessName=CDPdrv.exe, bAllInstances=0
+CSCO:Wed Feb 20 14:50:57 2013:csco_clss::Process::terminateProcessByName() Process was not currently running
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() out: nReturn=0
+
+hello world. second third. forth.
+
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() in: hMsi=378, sProcessName=CDPdrv.exe, bAllInstances=0
+CSCO:Wed Feb 20 14:50:57 2013:csco_clss::Process::terminateProcessByName() Process was not currently running
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() out: nReturn=0
+
+
+hello world. second third. forth.
+
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() in: hMsi=378, sProcessName=CDPdrv.exe, bAllInstances=0
+CSCO:Wed Feb 20 14:50:57 2013:csco_clss::Process::terminateProcessByName() Process was not currently running
+CSCO:Wed Feb 20 14:50:57 2013:csco_eftn::KillProcessByName() out: nReturn=0
