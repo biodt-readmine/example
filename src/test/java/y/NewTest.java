@@ -16,7 +16,7 @@ public class NewTest {
 	@Category(y.IntegrationTest.class)
 	public void emptyTest1() throws Exception {
         HtmlUnitDriver driver = new HtmlUnitDriver();
-		//WebDriver driver = new FirefoxDriver();
+		//  WebDriver driver = new FirefoxDriver();
         driver.get("http://www.google.com/");
 		Assert.assertEquals(driver.getTitle(), "Google");
 		driver.quit();
